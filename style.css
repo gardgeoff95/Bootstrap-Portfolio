@@ -1,0 +1,79 @@
+a{
+    color:black;
+}
+h2{
+    font-family:'serif';
+    font-weight: 700;
+    font-size: 35px;
+
+}
+h4{
+    font-family: 'serif';
+    margin-top: 12px;
+    color:#777777
+}
+.subHeader{
+    color: #4aaaa5;
+    background-color: #ffffff;
+    border-bottom: solid #cccccc 1px;
+
+}
+.myName{
+    background-color: #4aaaa5;
+    height: 75px;
+    padding: 15px 0px 0px 15px;
+    margin: 0;
+   
+
+}
+
+.navBar{
+    background-color: #ffffff;
+    padding-top: 15px;
+    padding-bottom: 0px;
+    border-bottom: solid #cccccc 1px;
+}
+img{
+    height: 150x;
+    width: 150px;
+    margin: 10px 0px 0px 10px;
+    border: solid #cccccc
+}
+.background{
+    margin-top: 100px;
+
+}
+.head1{
+    background-color: #666666;
+    height: 50px;
+
+}
+.head2{
+    background-color: #4aaaa5;
+    height: 20px;
+
+}
+.foot1{
+    background-color: #4aaaa5;
+    height: 20px;
+    margin-top: 25%;
+    
+    
+}
+.foot2{
+
+    background-color: #666666;
+    height: 50px;
+
+}
+.message{
+    height: 200px;
+    width: 100%;
+
+}
+.card-text{
+    background-color: #4aaaa5;
+    text-align: center;
+    font-family: serif;
+    
+}
